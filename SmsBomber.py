@@ -34,7 +34,7 @@ if(sec==K3Y):
 	print("\033[92m")
 	os.system("clear")
 	os.system("figlet Bd Hacker")
-	print("          Bd Cyber Army's 	 \033[0;92m")
+	print("            Bd Cyber Army's 	 \033[0;92m")
 	time.sleep(0.6)
 	print("\033[1;94m────────────────────────────────────────────────────\x1b[1;94m")
 	print("\033[1;92m▸ \033[92mAuthor   : Bd Cyber army's ")
@@ -100,7 +100,7 @@ if(sec==K3Y):
 					if(op==tr):
 						psb("\n[*] Bombing Finished!!\n")
 						time.sleep(0.5)
-						psb("[!] Sent "+tr2+" Massages To 0"+number+" By ToxicBomber.....\n\033[40;37m")
+						psb("[!] Sent "+tr2+" Massages To 0"+number+" By  Bd Cyber Army's.....\n\033[40;37m")
 						time.sleep(0.7)
 						exit()
 					else:
@@ -117,7 +117,7 @@ if(sec==K3Y):
 			if(op==tr):
 				psb("\n[*] Bombing Finished!!\n")
 				time.sleep(0.5)
-				psb("[!] Sent "+tr2+" Massages To 0"+number+" By ToxicBomber.....\n\033[40;37m")
+				psb("[!] Sent "+tr2+" Massages To 0"+number+" By  Bd Cyber Army's.....\n\033[40;37m")
 				time.sleep(0.7)
 				exit()
 			else:
@@ -132,7 +132,7 @@ if(sec==K3Y):
 				if(op==tr):
 					psb("\n[*] Bombing Finished!!\n")
 					time.sleep(0.5)
-					psb("[!] Sent "+tr2+" Massages To 0"+number+" By ToxicBomber.....\n\033[40;37m")
+					psb("[!] Sent "+tr2+" Massages To 0"+number+" By  Bd Cyber Army's.....\n\033[40;37m")
 					time.sleep(0.7)
 					exit()
 				else:
@@ -151,7 +151,7 @@ if(sec==K3Y):
 			if(op==tr):
 				psb("\n[*] Bombing Finished!!\n")
 				time.sleep(0.5)
-				psb("[!] Sent "+tr2+" Massages To 0"+number+" By ToxicBomber.....\n\033[40;37m")
+				psb("[!] Sent "+tr2+" Massages To 0"+number+" By  Bd Cyber Army's.....\n\033[40;37m")
 				time.sleep(0.7)
 				exit()
 			else:
