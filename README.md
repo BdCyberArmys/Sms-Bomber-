@@ -13,4 +13,8 @@ pip install mechanize
 
 pip install requests
 
-git clone 
+git clone https://github.com/BdCyberArmys/Sms-Bomber-
+
+cd Sms-Bomber
+
+python SmsBomber.py
