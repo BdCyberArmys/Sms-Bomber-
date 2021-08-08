@@ -33,7 +33,7 @@ if(sec==K3Y):
 	
 	print("\033[92m")
 	os.system("clear")
-	os.system("figlet TBomber")
+	os.system("figlet Bd Hacker")
 	print("          Bd Cyber Army's 	 \033[0;92m")
 	time.sleep(0.6)
 	print("\033[1;94m────────────────────────────────────────────────────\x1b[1;94m")
@@ -69,7 +69,7 @@ if(sec==K3Y):
 	
 	psb("\n[!] Please wait.....")
 	time.sleep(0.6)
-	psb("[!] Bombing in Progress....\n")
+	psb("[!] Bombing Start....\n")
 	time.sleep(1)
 	
 	op = 0
@@ -82,7 +82,7 @@ if(sec==K3Y):
 			if(op==tr):
 				psb("\n[*] Bombing Finished!!\n")
 				time.sleep(0.5)
-				psb("[!] Sent "+tr2+" Massages To 0"+number+" By ToxicBomber.....\n\033[40;37m")
+				psb("[!] Sent "+tr2+" Massages To 0"+number+" By Bd Cyber army's .....\n\033[40;37m")
 				time.sleep(0.7)
 				exit()
 			else:
