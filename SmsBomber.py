@@ -1,7 +1,7 @@
-#Coded By Dark Sald3
-#A Product Of ToxicNoob
-#If You Want To Get Knowledge From This  Source Code, You're Welcomed....
-#But If You Want To Copy And Take Cradits, Then Get Out...
+#Coded By Ahmed Suhag
+#A Product Of Bd Cyber Army's 
+
+
 
 import time
 import requests
@@ -23,7 +23,7 @@ br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 
 if(sec==K3Y):
-	psb("\n[!] Access Approved.....")
+	psb("\n[!] Access Grunted.....")
 	time.sleep(0.6)
 	psb("\n[!] Loading...")
 	time.sleep(0.8)
@@ -34,20 +34,20 @@ if(sec==K3Y):
 	print("\033[92m")
 	os.system("clear")
 	os.system("figlet TBomber")
-	print("          	A Product Of ToxicNoob \033[0;92m")
+	print("          Bd Cyber Army's 	 \033[0;92m")
 	time.sleep(0.6)
 	print("\033[1;94m────────────────────────────────────────────────────\x1b[1;94m")
-	print("\033[1;92m▸ \033[92mAuthor   : Dark Slad3")
+	print("\033[1;92m▸ \033[92mAuthor   : Bd Cyber army's ")
 	print("\033[1;92m▸ \033[92mGithub   : https://github.com/Toxic-Noob/")
 	print("\033[1;92m▸ \033[1;91mNote     : This Tool Is Only For Educational Purpose \x1b[1;92m")
-	print("\033[1;92m▸ \033[1;91mNote     : I'm Not Responsible for Any Misuse \x1b[1;92m")
+	print("\033[1;92m▸ \033[1;91mDeveloper     : Ahmed Suhag \x1b[1;92m")
 	print("\033[1;94m────────────────────────────────────────────────────")
 	print("\033[92m")
 	time.sleep(1)
 	
 	
 	print("\033[92m")
-	number = input("\n[*] Enter Target Number:> +880")
+	number = input("\n[*] Enter Victim Number:> +880")
 	tr1 = input("[*] Enter Amount (Default 10):> ")
 	if(tr1==""):
 		tr=10
