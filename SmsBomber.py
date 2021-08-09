@@ -42,6 +42,7 @@ if(sec==K3Y):
 	print("\033[1;92m▸ \033[92mFb Group : facebook.com/groups/234315574944593/")
 	print("\033[1;92m▸ \033[1;91mNote     : This Tool Is Only For Educational Purpose \x1b[1;92m")
 	print("\033[1;92m▸ \033[1;91mDeveloper     : Ahmed Suhag \x1b[1;92m")
+	print("\033[1;92m▸ \033[1;91mDeveloper     : Monushotto \x1b[1;92m")
 	print("\033[1;94m────────────────────────────────────────────────────")
 	print("\033[92m")
 	time.sleep(1)
