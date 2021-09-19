@@ -15,6 +15,6 @@ pip install requests
 
 git clone https://github.com/BdCyberArmys/Sms-Bomber-
 
-cd Sms-Bomber
+cd Sms-Bomber-
 
-python SmsBomber.py
+python3 SmsBomber.py
